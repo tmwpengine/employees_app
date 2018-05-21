@@ -1,1 +1,6 @@
 Simple Django app that can be used for training/onboarding
+
+Initialize database and load migrations
+    - python manage.py migrate
+    
+
